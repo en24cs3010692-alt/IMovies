@@ -314,7 +314,7 @@ iMovies demonstrates the development of a full-stack movie ticket booking applic
 The project provides practical experience in frontend development, REST API design, database integration, authentication, role-based authorization, and software documentation.
 
 **Project Type:** Academic / Educational  
-**Repository:** https://github.com/Anurag-Jadhav-1212/IMovies
+**Repository:** https://github.com/en24cs3010692-alt/IMovies
 
 ---
 
